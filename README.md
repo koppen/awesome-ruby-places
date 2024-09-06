@@ -16,6 +16,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [WyeWorks](https://www.wyeworks.com/) | Inspiring people to build great software | [💻](https://www.wyeworks.com/careers) | [Sep 2024](https://www.linkedin.com/company/wyeworks/) |
 | | [Neocoast](https://www.neocoast.com/) | Build & scale reliable products with people you can trust | [💻](https://www.neocoast.com/join-us-form) | [Sep 2024](https://blog.neocoast.com/improving-rails-app-performance) |
 | | [boosting.tech](https://boosting.tech/) | Boosting bussiness through technology | [💻](https://boosting.tech/) | [Sep 2024](https://boosting.tech/careers) |
+| | [Substance Lab](https://www.substancelab.dk/) | Software development agency in Denmark | [💻](https://substancelab.dk/jobs/) | [Sep 2024](https://github.com/substancelab/) |
 | | [Switch Dreams](https://switchdreams.com.br/) | Your Brazilian partner for creative design and software development | | [Sep 2024](https://github.com/SwitchDreams) |
 | Automotive | [Carwow](https://carwow.co.uk) | Car changing is a big deal. | [💻](https://www.carwow.co.uk/jobs) | [Sep 2024](https://www.carwow.co.uk/jobs#jobs-widget) |
 | Community Tools | [Circle.so](https://circle.so/) | The all-in-one community platform for creators and brands. | | |
